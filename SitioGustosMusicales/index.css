@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.group-container {
+  margin-bottom: 20px;
+}
+.group-container h2 {
+  margin-bottom: 5px;
+}
+.group-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+.submit-btn {
+  margin-top: 20px;
+}
